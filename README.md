@@ -2,14 +2,13 @@
 This project involves performing a comprehensive analysis based on two categories, Data cleaning and Exploratory data analysis.
 
 ## 🌍 Global Layoff Data Analysis
-
 This repository contains a comprehensive data analysis project that explores trends, patterns, and insights from global layoff data. The analysis uses SQL for data cleaning and a series of queries to uncover key factors influencing layoffs, the industries most affected, and geographical trends.
 
 ## 🎯 Project Overview
 
 The primary goal of this project is to analyze global layoff data to identify significant trends that occurred between March 2020 and March 2023. This period captures a time of major global economic events, including the COVID-19 pandemic and subsequent recovery phases. The analysis provides valuable insights into how different industries and regions were affected by these challenges.
 
------
+---
 
 ## 📊 Data and Tools
 
@@ -83,5 +82,18 @@ The analysis provides several key insights into the global layoff landscape:
   * The **San Francisco Bay Area** was identified as a major hub for layoffs within the United States.
 
 -----
+
+
+## 🛠️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution
+
+---
+
+## 📮 Contact
+
+Hi there! I'm **Okoroh Precious**, also known as **DataByPrecious**, I am a Data Analyst on a mission to share knowledge and project materials.
+  [GitHub Profile](https://github.com/DataByPrecious)
+  
 
 **Note:** Please be sure to adjust the specific table and column names (`layoffs_staging`, `world_layoffs.layoffs2`) to match your actual database schema.
